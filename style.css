@@ -1,0 +1,99 @@
+body {
+    font-family: Ibarra Real Nova;
+}
+header a{
+    border: 1px solid  rgb(245,27,52);
+    text-decoration: none;
+    background-color: rgb(245,27,52);
+    padding: 10px;
+    margin: 10px;
+    color: white;
+    border-radius: 30px;
+    width: 510px;
+    height: 72px;
+    left:  614px;
+    top: 45px;
+}
+.Ra{
+    background-color: white;
+    color: rgb(245,27,52);
+    width: 510px;
+    height: 72px;
+    left: 26px;
+    top: 43px;
+}
+h1{
+    text-align: center;
+    border-top: 16px dashed rgb(245,27,52);
+    border-bottom: 16px dashed rgb(245,27,52);
+    color: rgb(245,27,52);
+}
+.H2RM{
+    color: rgb(245,27,52);
+    width: 240px;
+    height: 45px;
+    left: 975px;
+    top: 363px;
+}
+.element{
+    color: rgb(245,27,52);
+    border: 1px solid rgb(245,27,52);
+    padding: 5px;
+    margin: 5px;
+    width: 204px;
+    height: 224px;
+    left: 889px;
+    top: 526px;
+}
+.imgr{
+    left: 1563px;
+    top: 547px;
+}
+.fm{
+    left: 2253px;
+    top: 550px;
+}
+h2{
+    color:  rgb(245,27,52);
+}  
+.PR {
+    color: white;
+    border: 1px solid rgb(245,27,52);
+    background-color: rgb(245,27,52);
+    padding: 15px;
+    margin: 5px;
+    border-radius: 30px;
+    width: 282px;
+    height: 128px;
+}   
+.H2{
+    border: 1px solid rgb(245,27,52);
+    padding: 15px;
+    margin: 5px;
+    border-radius: 30px;
+    width: 84px;
+    height: 83px;
+    padding: 10px 0xp 10px 40px;
+    left: 2326px;
+    top: 1435px;
+     
+}
+li{
+    color: rgb(245,27,52);
+}
+.Rick{
+    color: white;
+    border: 1px solid  rgb(245,27,52);
+    background-color: rgb(245,27,52);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 30px;
+    width: 84px;
+    height: 33px;
+    padding: 10px 0px 10px 30px;
+     
+}
+ main p{
+     color: rgb(245,27,52);
+}
+ 
